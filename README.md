@@ -1,8 +1,6 @@
 # voiidNetherMushroomDrop
 inkvoiid's Nether Mushroom Drop Datapack
 
-[Download v1.0](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/inkvoiid/voiidNetherMushroomDrop)
-
 This datapack changes warped fungi to drop the respective mushroom instead for renewablility.
 
 Block drop loot tables:
